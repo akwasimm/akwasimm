@@ -87,6 +87,4 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/akwasimm/akwasimm/output/snake.svg" alt="Snake animation" />
-
 ###
