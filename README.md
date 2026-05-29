@@ -7,7 +7,7 @@
 
 <!-- Typing Terminal Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=50&lines=%3E+whoami+%E2%86%92+Wasim+Akhter;%3E+role+%E2%86%92+AI+%26+ML+Engineer;%3E+stack+%E2%86%92+Python+%7C+FastAPI+%7C+React;%3E+status+%E2%86%92+Building+Intelligent+Systems+%F0%9F%9A%80" alt="Terminal Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=50&lines=%3E+Username+%E2%86%92+Wasim+Akhter;%3E+role+%E2%86%92+AI+%26+ML+Engineer;%3E+stack+%E2%86%92+Python+%7C+FastAPI+%7C+React;%3E+status+%E2%86%92+Building+Intelligent+Systems" alt="Terminal Typing"/>
 </div>
 
 <br/>
@@ -268,26 +268,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- ==================== GITHUB STATS ==================== -->
 
-<h2>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30" height="30"/>
-  &nbsp;GitHub Analytics
-</h2>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akwasimm&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
-</div>
-
-<br/>
-
-<!-- Stats Cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akwasimm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="190"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akwasimm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" height="190"/>
-</div>
 
 <br/>
 
@@ -305,14 +285,9 @@
 
 <br/>
 
-<!-- Contribution Details -->
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=akwasimm&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="60%"/>
-</div>
 
-<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ==================== SNAKE ANIMATION ==================== -->
 
 <h2>
@@ -482,16 +457,36 @@
 
 <!-- ==================== FOOTER ==================== -->
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Thanks_For_Visiting!-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjNThhNmZmIj48cGF0aCBkPSJNMTIgMjEuMzVsLTEuNDUtMS4zMkM1LjQgMTUuMzYgMiAxMi4yOCAyIDguNSAyIDUuNDIgNC40MiAzIDcuNSAzYzEuNzQgMCAzLjQxLjgxIDQuNSAyLjA5QzEzLjA5IDMuODEgMTQuNzYgMyAxNi41IDMgMTkuNTggMyAyMiA1LjQyIDIyIDguNWMwIDMuNzgtMy40IDYuODYtOC41NSAxMS41NEwxMiAyMS4zNXoiLz48L3N2Zz4="/>
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+</div>
+
+<br/>
+
+<div align="center">
+  <b>⭐ Thanks For Visiting!</b>
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1000&color=8b949e&center=true&vCenter=true&random=false&width=500&lines=Let's+build+something+amazing+together+🚀;Open+for+collaborations+and+opportunities+💡;Star+⭐+my+repos+if+you+find+them+useful!" alt="Footer Typing"/>
+  <a href="https://github.com/akwasimm">
+    <img src="https://img.shields.io/badge/Let's_Connect-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/akwasim">
+    <img src="https://img.shields.io/badge/Collaborate-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="35"/>
+  </a>
+  &nbsp;
+  <a href="mailto:contact.wasimakhter@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" height="35"/>
+  </a>
 </div>
 
 <br/>
