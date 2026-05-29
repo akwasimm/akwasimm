@@ -44,21 +44,21 @@
 
 <br/>
 
-🔭 **Currently Building:** JobFor — AI-driven Job Recommendation System with React & FastAPI
+➤  **Currently Building:** JobFor — AI-driven Job Recommendation System with React & FastAPI
 
-🌱 **Currently Learning:** Advanced System Design, Scalable Microservices, Production Data Pipelines
+➤  **Currently Learning:** Advanced System Design, Scalable Microservices, Production Data Pipelines
 
-👯 **Looking to Collaborate:** Open-source ML projects & FastAPI Backend Development
+➤  **Looking to Collaborate:** Open-source ML projects & FastAPI Backend Development
 
-💬 **Ask Me About:** Python, FastAPI, Data Analysis, Recommendation Engines, Modern UI/UX
+➤  **Ask Me About:** Python, FastAPI, Data Analysis, Recommendation Engines, Modern UI/UX
 
-📫 **Reach Me:** contact.wasimakhter@gmail.com
+➤  **Reach Me:** contact.wasimakhter@gmail.com
 
-👨‍💻 **Portfolio:** [akhterwasim.dev](https://akhterwasim.dev)
+➤  **Portfolio:** [akhterwasim.dev](https://akhterwasim.dev)
 
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1EhtaOnkH88xx-kt13s6Bd8fDnQP1qyQB/view?usp=drive_link)
+➤  **Resume:** [View Here](https://drive.google.com/file/d/1EhtaOnkH88xx-kt13s6Bd8fDnQP1qyQB/view?usp=drive_link)
 
-⚡ **Fun Fact:** I architect code like chess — every move is strategic ♟️
+➤  **Fun Fact:** I architect code like chess — every move is strategic ♟️
 
 <br clear="right"/>
 
@@ -69,18 +69,18 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/🔭_Working_On-JobFor_AI_System-0d1117?style=flat-square&labelColor=161b22"/>
+        <img src="https://img.shields.io/badge/%E2%9E%A4_Working_On-JobFor_AI_System-0d1117?style=flat-square&labelColor=161b22"/>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/🌱_Learning-System_Design_&_MLOps-0d1117?style=flat-square&labelColor=161b22"/>
+        <img src="https://img.shields.io/badge/%E2%9E%A4_Learning-System_Design_%26_MLOps-0d1117?style=flat-square&labelColor=161b22"/>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/💬_Ask_About-Python_FastAPI_ML-0d1117?style=flat-square&labelColor=161b22"/>
+        <img src="https://img.shields.io/badge/%E2%9E%A4_Ask_About-Python_FastAPI_ML-0d1117?style=flat-square&labelColor=161b22"/>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/⚡_Fun_Fact-Chess_&_Code_Strategist-0d1117?style=flat-square&labelColor=161b22"/>
+        <img src="https://img.shields.io/badge/%E2%9E%A4_Fun_Fact-Chess_%26_Code_Strategist-0d1117?style=flat-square&labelColor=161b22"/>
       </td>
     </tr>
   </table>
@@ -132,8 +132,6 @@
 <summary><b>🤖 AI / ML / Data Science</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
   <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243"/>
   <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
@@ -213,11 +211,11 @@
 `React` `FastAPI` `Python` `Machine Learning` `PostgreSQL`
 
 **✨ Key Features:**
-- 🎯 Content-based filtering recommendation engine
-- 📊 Advanced skill-gap analysis
-- ⚡ Real-time job matching
-- 🔐 Secure authentication with JWT
-- 📱 Responsive modern UI
+- ◆  Content-based filtering recommendation engine
+- ◆  Advanced skill-gap analysis
+- ◆  Real-time job matching
+- ◆  Secure authentication with JWT
+- ◆  Responsive modern UI
 
 <br/>
 
@@ -237,10 +235,10 @@
 `React` `TailwindCSS` `JavaScript`
 
 **✨ Key Features:**
-- 🎨 Clean modern design
-- 📱 Fully responsive
-- ⚡ Fast performance
-- 🌙 Dark mode support
+- ◆  Clean modern design
+- ◆  Fully responsive
+- ◆  Fast performance
+- ◆  Dark mode support
 
 <br/>
 
@@ -356,8 +354,8 @@
 <br/>
 
 <!-- Replace with your actual stats -->
-`🏆 Problems Solved: XX`
-`⭐ Contest Rating: XXXX`
+`🏆 Problems Solved: 319`
+`⭐ Contest Rating: 1611`
 
 </td>
 <td align="center" width="25%">
@@ -369,8 +367,8 @@
 <br/>
 
 <!-- Replace with your actual stats -->
-`⭐ Stars: XX`
-`🏅 Badges: XX`
+`⭐ Stars: ?`
+`🏅 Badges: ??`
 
 </td>
 <td align="center" width="25%">
@@ -382,8 +380,8 @@
 <br/>
 
 <!-- Replace with your actual stats -->
-`📊 Rating: XXXX`
-`🏆 Max Rating: XXXX`
+`📊 Rating: ?`
+`🏆 Max Rating: ??`
 
 </td>
 <td align="center" width="25%">
@@ -395,8 +393,8 @@
 <br/>
 
 <!-- Replace with your actual stats -->
-`📓 Notebooks: XX`
-`🥇 Competitions: XX`
+`📓 Notebooks: _`
+`🥇 Competitions: __`
 
 </td>
 </tr>
