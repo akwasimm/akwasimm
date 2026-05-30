@@ -429,15 +429,15 @@
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" height="35"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/akwasim" target="_blank">
+  <a href="https://linkedin.com/in/akhterwasim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="35"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com/akwasim" target="_blank">
+  <a href="https://twitter.com/akwasimmm" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white" height="35"/>
   </a>
   &nbsp;
-  <a href="https://dev.to/akwasim" target="_blank">
+  <a href="https://dev.to/akwasimmm" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=white" height="35"/>
   </a>
   &nbsp;
@@ -518,7 +518,7 @@
     <img src="https://img.shields.io/badge/Let's_Connect-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" height="35"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/akwasim" target="_blank">
+  <a href="https://linkedin.com/in/akhterwasim" target="_blank">
     <img src="https://img.shields.io/badge/Collaborate-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="35"/>
   </a>
   &nbsp;
